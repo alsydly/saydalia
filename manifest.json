@@ -1,0 +1,27 @@
+{
+  "name": "صيدلية السرور النموذجية",
+  "short_name": "صيدلية السرور",
+  "description": "تطبيق صيدلية السرور النموذجية للطلب السريع ومتابعة المنتجات.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#f2f8f8",
+  "theme_color": "#378b8e",
+  "icons": [
+    {
+      "src": "./icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
